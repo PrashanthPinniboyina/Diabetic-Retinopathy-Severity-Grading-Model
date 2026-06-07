@@ -1,0 +1,4 @@
+Model,Test Accuracy (%),Test Loss,Macro F1 (%),Macro Precision (%),Macro Recall (%),Macro AUC,Parameters
+Custom CNN,49.27,4.3702,13.2,9.85,20.0,0.4952,"1,243,237"
+EfficientNetB3,27.09,4.041,8.53,5.43,19.87,0.4869,"11,705,140"
+ResNet50,49.27,6.8581,13.2,9.85,20.0,0.5194,"24,641,413"
